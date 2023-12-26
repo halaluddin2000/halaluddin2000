@@ -6,11 +6,13 @@ I’m a Front End Web developer who is passionate about making error-free websit
 Skills: REACT / JS/ mondoDB / HTML / CSS
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mdhalaluddin)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdhalaluddin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdhalaluddin&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mdhalaluddin)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mdhalaluddin)](https://github.com/ryo-ma/github-profile-trophy)
+
 
