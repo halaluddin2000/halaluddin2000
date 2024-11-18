@@ -11,9 +11,9 @@
         <p align="center">
           <a href="https://github.com/halaluddin2000/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=halaluddin2000&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
+          alt="halaluddin2000 :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halaluddin2000&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          alt="halaluddin2000 :: Top Langs by commit" />
           </a>
      </p>
 
